@@ -2,4 +2,6 @@ Git Tutorial
 
 Cleaned text.
 
-Trying to commit directly!!!cgdfghfthg
+Trying to commit directly!!!
+
+cgdfghfthg
